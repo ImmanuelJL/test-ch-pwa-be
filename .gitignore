@@ -1,0 +1,15 @@
+.env
+
+node_modules
+
+package-lock.json
+
+*.swp
+
+log/*
+!log/.gitkeep 
+
+file/*
+!file/.gitkeep 
+
+*.log

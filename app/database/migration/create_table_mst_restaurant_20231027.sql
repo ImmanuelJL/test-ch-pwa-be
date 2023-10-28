@@ -1,0 +1,1 @@
+CREATE TABLE `pwa`.`mst_restaurant` (`id` INT NOT NULL AUTO_INCREMENT COMMENT 'Primary key' , `status` ENUM('active','inactive') NOT NULL , `name` VARCHAR(255) NOT NULL , `created_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP , `updated_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP , `deleted_at` TIMESTAMP NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;

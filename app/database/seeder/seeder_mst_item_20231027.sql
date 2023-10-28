@@ -1,0 +1,1 @@
+INSERT INTO `mst_item` (`id`, `name`, `created_at`, `updated_at`, `deleted_at`) VALUES (NULL, 'Nasi goreng', current_timestamp(), current_timestamp(), NULL), (NULL, 'Mie goreng', current_timestamp(), current_timestamp(), NULL)

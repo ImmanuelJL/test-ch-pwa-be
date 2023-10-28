@@ -1,0 +1,1 @@
+RENAME TABLE `pwa`.`mst_item` TO `pwa`.`mst_menu`;

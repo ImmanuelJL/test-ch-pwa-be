@@ -1,0 +1,1 @@
+INSERT INTO `mst_restaurant` (`id`, `status`, `name`, `created_at`, `updated_at`, `deleted_at`) VALUES (NULL, 'active', 'Resto - 1', current_timestamp(), current_timestamp(), NULL), (NULL, 'active', 'Resto - 2', current_timestamp(), current_timestamp(), NULL)
